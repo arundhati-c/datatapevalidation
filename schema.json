@@ -1,0 +1,50 @@
+{
+  "TEST": {
+    "TSTPRF": "5",
+    "TSTCFN": "8",
+    "RECTYP": "10",
+    "LINK": "11",
+    "OCCTYP": "15"
+  },
+  "RESTRAINT": {
+    "RSTTYP": "2",
+    "RSTMNT": "3",
+    "DEPLOY": "4"
+  },
+  "BIO OCCUPANT": {
+    "BOCCLOC": "1",
+    "BOCCSEX": "2",
+    "BSEPOSN": "3",
+    "AORPRE": "16",
+    "CERPRE": "17",
+    "PULPRE": "18",
+    "BMCLOC": "20",
+    "BMCUNIT": "21",
+    "BMCMETHOD": "22"
+  },
+  "DUMMY OCCUPANT": {
+    "DOCCLOC": "1",
+    "DOCCSEX": "2",
+    "DSEPOSN": "3",
+    "MTHCAL": "19",
+    "DUMSIZ": "20"
+  },
+  "ANTHROPOMETRY": {},
+  "OCCUPANT INJURY": {
+    "BODYRG": "2",
+    "ASPECT": "3",
+    "LESION": "4",
+    "SYSORG": "5",
+    "AIS": "6"
+  },
+  "INSTRUMENTATION": {
+    "SENTYP": "2",
+    "SENLOC": "3",
+    "SENATT": "4",
+    "AXIS": "5",
+    "XUNITS": "6",
+    "YUNITS": "7",
+    "DASTAT": "17",
+    "CHSTAT": "18"
+  }
+}
