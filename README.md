@@ -23,7 +23,7 @@ The validation process compares codes extracted from `.ev5` files with the autho
 ### Environment
 
 - Download this repository on your machine
-- [Download]([url](https://www.python.org/downloads/)) and Install Python **3.8+**
+- [Download and install Python **3.8+**](https://www.python.org/downloads/)
 - Navigate to the the project directory in a terminal or a command prompt
   ```bash
   cd datatapevalidation
@@ -127,4 +127,5 @@ Activate the virtual environment
 
 - Introduced by: John Paul Donlon
 - Authored by: Arundhati Avinash Dange
+
 
